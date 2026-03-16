@@ -6,7 +6,6 @@
 Ferns N Petals Corporate grants its patrons and followers the very opportunity to buy and send corporate gifts to their acquaintances, by not only providing the former with an assortment of choices but also privileging them with prices that are customer friendly. Hence, whether your search concerns Diwali Gifts for Corporates or promotional products, our online portal harbors them all at your disposal, twenty-four hours a day, seven days a week.</p>
 <hr>
 <h2 style='font-family:cambria;text-align:center'>Project Background</h2>
-<h3 style='text-align:center;font-family:cambria'>Project ini akan menjadi pemulai dari projek-projeck excel saya lainnya.</h3><hr>
 
 <p align='justify'>Fern and Petals has sales records full month in 2023 for various special gifts for special occasions or religious events in India, such as Diwali, Raksha Bandhan, Holi, Valentine's Day, birthdays, and anniversaries. It is interesting to analyze their product sales activities. Before addressing the questions that arise from this data, we will look at the categories and groups in the data table itself.</p>
 
